@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: AI-MEDICAL-ASSISTANT
+Version: 0.0.0
+Author: Swayam Desai
+Author-email: swayamdesai62@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file

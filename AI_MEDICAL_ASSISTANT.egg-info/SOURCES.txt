@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+AI_MEDICAL_ASSISTANT.egg-info/PKG-INFO
+AI_MEDICAL_ASSISTANT.egg-info/SOURCES.txt
+AI_MEDICAL_ASSISTANT.egg-info/dependency_links.txt
+AI_MEDICAL_ASSISTANT.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py
